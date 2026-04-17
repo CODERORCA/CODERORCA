@@ -1,6 +1,7 @@
-## Guten Tag, I am Kevin
-- 🎓 IHK Certified Computer Science Expert
-- 💻 Developing Software on my own
-- 🐋 Software developer + living by the sea = CoderOrca
+## Hello there, I am Kevin
+- 🎓 Computer Science Expert*
+- 🐍 Python Developer
 - 📧 Reach me out via E-Mail
 - 🌐 Find me on on other platforms
+
+*IHK (Industrie- und Handelskammer) Bremen Certified
